@@ -10,6 +10,8 @@ Fork Master主干代码，新增或编辑文档内容后，提交 Pull-Request �
 
 ## 🔧 开发
 
+该文档使用 [VuePress 2.0](https://github.com/vuepress/vuepress-next) 开发，相关信息请查阅其[官网](https://v2.vuepress.vuejs.org/zh/)。
+
 ```bash
 # install dependencies
 npm install
